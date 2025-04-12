@@ -2,6 +2,8 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=exee04&theme=midnight-purple&hide_border=true&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=22dxf4qv2e6gydld6pcxgrlpi&cover_image=true&theme=default&show_offline=false&background_color=000000&interchange=false&bar_color=9745f5)](https://spotify-github-profile.kittinanx.com/api/view?uid=22dxf4qv2e6gydld6pcxgrlpi&redirect=true)
+
 <!--
 **exee04/exee04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
